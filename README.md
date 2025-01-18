@@ -45,7 +45,7 @@ I'm open to collaborating on:
 ## 📫 Contact Me
 
 - **Email**: [aaravsachdeva007@gmail.com]
-- **LinkedIn**: [linkedin.com/in/aarav-sachdeva-4798882bb](www.linkedin.com/in/aarav-sachdeva-4798882bb)
+- **LinkedIn**: [linkedin.com/in/aarav-sachdeva]([www.linkedin.com/in/aarav-sachdeva-4798882bb](https://www.linkedin.com/in/aarav-sachdeva-4798882bb/))
 
 Feel free to reach out for collaborations, project ideas, or just to connect!
 
