@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aarav Sachdeva
 
-Welcome to my GitHub profile! I'm a 16-year-old student with a passion for programming and technology. Here's a little about me:
+Welcome to my GitHub profile! I'm a 17-year-old student with a passion for programming and technology. Here's a little about me:
 
 ---
 
